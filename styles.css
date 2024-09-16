@@ -1,0 +1,64 @@
+div{
+    width: 150px;
+    height: 150px;
+    background-color: rgba(158, 59, 59, 0.507);
+    border: solid medium black;
+    border-radius: 35px;
+    padding: 25px;
+    margin: 15px;
+}
+
+#box1{
+    background-color: rgba(158, 59, 59, 0.507);
+    height: 400px;
+    float: left;
+   }
+
+   #box2, 
+   #box3{
+    float: right;
+   }
+   
+   #container{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(254, 128, 128);
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+
+
+
+body{
+    background-color: rgb(249, 80, 80);
+}
+
+div{
+    width: 150px;
+    height: 150px;
+    background-color: rgba(158, 59, 59, 0.507);
+    border: solid medium black;
+    border-radius: 35px;
+    padding: 25px;
+    margin: 15px;
+}
+
+#box1{
+    background-color: rgba(158, 59, 59, 0.507);
+    height: 400px;
+    float: left;
+   }
+
+   #box2, 
+   #box3{
+    float: right;
+   }
+   
+   #container{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(254, 128, 128);
+    margin-left: auto;
+    margin-right: auto;
+   }
